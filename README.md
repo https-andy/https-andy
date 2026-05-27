@@ -2,9 +2,11 @@
 
 <img align="right" alt="coding" width="180" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXNpeTVzaWRtcWZ1dDM0eGxianYzbzIwZ25icGliNTI4dXN1cHB0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ilFRqgbzbx4c/giphy.gif">
 
-Systems Administration Engineering student focused on web development, systems analysis and database management.
+Systems Administration Engineering student passionate about web development, systems analysis and database management.
 
-I enjoy building web projects, improving interfaces and learning new technologies along the way ✨
+I enjoy creating web projects focused on clean interfaces, functionality and continuous improvement. My academic experience includes working on projects related to process automation, inventory management systems, database modeling and technical documentation.
+
+I'm especially interested in frontend development, UI design and building solutions that combine creativity with technology ✨
 
 <br><br><br><br><br><br>
 
