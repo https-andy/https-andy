@@ -12,7 +12,7 @@ I'm especially interested in frontend development, UI design and building soluti
 
 ---
 
-## 💻 Currently Working With
+## 🖥️​ Currently Working With
 
 - HTML5
 - CSS3
@@ -58,7 +58,7 @@ Future Improvements:
 
 ---
 
-## 🌱 About Me
+## ✌️ About Me
 
 - Systems Administration Engineering student at UANL
 - Interested in web technologies and system automation
