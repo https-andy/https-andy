@@ -1,10 +1,10 @@
 # Hi 👋 I'm Andy
 
-<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXNpeTVzaWRtcWZ1dDM0eGxianYzbzIwZ25icGliNTI4dXN1cHB0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ilFRqgbzbx4c/giphy.gif" width="220"/>
-
 Systems Administration Engineering student focused on web development, systems analysis and database management.
 
 I enjoy building web projects, improving interfaces and learning new technologies along the way ✨
+
+<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXNpeTVzaWRtcWZ1dDM0eGxianYzbzIwZ25icGliNTI4dXN1cHB0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ilFRqgbzbx4c/giphy.gif" width="220"/>
 
 ---
 
