@@ -8,7 +8,7 @@ I enjoy creating web projects focused on clean interfaces, functionality and con
 
 I'm especially interested in frontend development, UI design and building solutions that combine creativity with technology ✨
 
-<br><br><br>
+<br>
 
 ---
 
